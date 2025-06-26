@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Aiz4T1m3M1mvskDes2fuGtFoV6HegcCZ
 """
 
-!pip install ipywidgets
+
 import yfinance as yf
 import pandas as pd
 
